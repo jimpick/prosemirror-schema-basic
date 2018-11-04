@@ -1,4 +1,4 @@
-import {Schema} from "prosemirror-model"
+import {Schema} from "@jimpick/prosemirror-model"
 
 const pDOM = ["p", 0], blockquoteDOM = ["blockquote", 0], hrDOM = ["hr"],
       preDOM = ["pre", ["code", 0]], brDOM = ["br"]
